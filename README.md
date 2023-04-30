@@ -1,1 +1,1 @@
-arkanoid
+Arcanoid is a classic arcade game written in the C programming language.<br>Player control a paddle at the bottom of the screen to bounce a ball upwards and destroy bricks at the top.<br>The game features multiple levels with varying brick patterns.<br>Overall, it's a simple yet addictive game that showcases the power of C programming.

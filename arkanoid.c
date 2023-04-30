@@ -27,7 +27,7 @@ TBall ball;
 int hitCnt = 0;
 int maxHitCnt = 0;
 int io;
-int goal = 15;
+int goal = 10;
 
 void initRacket()
 {
